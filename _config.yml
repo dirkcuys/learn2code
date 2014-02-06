@@ -1,6 +1,6 @@
 encoding: utf-8
 markdown: redcarpet
-baseurl: /jekyll-course-template
+baseurl: /learn2code
 url: dirkcuys.github.io/jekyll-course-template/
 permalink: /:title/
 ga_tracking_code: UA-5757664-17
