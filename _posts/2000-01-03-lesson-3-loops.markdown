@@ -21,7 +21,7 @@ for ( counter = 0; counter < 10; counter++ ){
 }
 {% endhighlight %}
 
-Wow, that's magic! Our lives just got simpler if we can live with a bit of monotomy. You might recognize the first part from [lesson 2]({{baseurl}}{% post_url 2014-01-14-learn2code-lesson-2 %}), but if you look carefully you will spot the magic:
+Wow, that's magic! Our lives just got simpler if we can live with a bit of monotomy. You might recognize the first part from [lesson 2]({{baseurl}}{% post_url 2000-01-02-lesson-2-variables %}), but if you look carefully you will spot the magic:
 
 {% highlight JavaScript %}
 for ( var counter = 0; counter < 10; counter++ ){
