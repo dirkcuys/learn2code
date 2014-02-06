@@ -4,9 +4,9 @@ layout: course_page
 categories: [content]
 ---
 
-<svg id="canvas"></svg>
-
 Yeah, I know, it took a while... But then again, what did I get? Two tweets from good friends! Thanks guys, actually, thanks girls! 
+
+<svg id="canvas"></svg>
 
 So that was me complaining and making excuses, on to code - [click here](http://jsfiddle.net/dirkcuys/dFDs9/) and try this code:
 
