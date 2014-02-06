@@ -1,5 +1,5 @@
 ---
-title: Map the Road to Success
+title: "Lesson 3 - loops"
 layout: course_page
 categories: [content]
 ---
