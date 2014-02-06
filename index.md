@@ -3,7 +3,7 @@ title: About
 layout: course_about
 ---
 
-In this tutorial you will learn basic coding principles in a visually satisfying way (I hope). You will create something of interest while learning to code. That something of interest will be a side scrolling city skyline and you'll get there in less than 8 hours, promise (you can get your money back if you don't). 
+In this tutorial you will learn basic coding principles in a visually satisfying way (I hope). You will create something of interest while learning to code. That something of interest will be a side scrolling city skyline and you'll get there in less than 8 hours, promise, you can get your money back if you don't. 
 
 We will be using JavaScript - a programming language that runs in your browser. And everything we do will be online, where code feels most at home.
 
