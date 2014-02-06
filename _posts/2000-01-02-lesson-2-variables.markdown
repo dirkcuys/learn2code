@@ -45,7 +45,7 @@ var myCityName = "Some city";
 text( 10, 10, myCityName);
 {% endhighlight %}
 
-Now go and change that, you can't let people see a city named "Some city"!!
+Now go and change that, you can't let people see a city named "Some city"!
 
 Recreate the city that you created in the previous lesson, but this time using variables. Try out new variables and see what happens. Here is mine (code this time, promise). And please remember to share yours with the tag [#learn2code](https://twitter.com/search?q=%23learn2code).
 
